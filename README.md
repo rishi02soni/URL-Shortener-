@@ -4,16 +4,6 @@ A **scalable URL Shortener backend system** built using **Java, Spring Boot, and
 This project converts long URLs into short, unique links and redirects users efficiently.
 
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
-  <b>Java | Spring Boot</b>
-</p>
 
 Inspired by real-world systems like **Bitly**, this project demonstrates **backend system design concepts** used in high-scale applications.
 
