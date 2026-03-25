@@ -1,4 +1,4 @@
-# 🚀 URL Shortener (Bitly Clone) - Spring Boot
+# 🚀 URL Shortener - Spring Boot
 
 A **scalable URL Shortener backend system** built using **Java, Spring Boot, and JPA**.
 This project converts long URLs into short, unique links and redirects users efficiently.
