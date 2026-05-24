@@ -20,7 +20,7 @@ Inspired by real-world systems like **Bitly**, this project demonstrates **backe
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Java 17+
 * Spring Boot
