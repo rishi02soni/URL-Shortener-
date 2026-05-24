@@ -11,7 +11,7 @@ Inspired by real-world systems like **Bitly**, this project demonstrates **backe
 
 ##  Features
 
-* 🔗 Shorten long URLs into unique short codes
+*  Shorten long URLs into unique short codes
 * 🔁 Redirect short URLs to original links
 * ⚡ Base62 Encoding for compact URLs
 * 🧠 Persistent storage using JPA (H2 / SQL DB)
