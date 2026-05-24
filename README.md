@@ -77,7 +77,7 @@ mvn clean install
 
 ### 3️⃣ Run Application
 
-```bash id="n7zvld"
+``` id="n7zvld"
 mvn spring-boot:run
 ```
 
