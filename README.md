@@ -30,7 +30,7 @@ Inspired by real-world systems like **Bitly**, this project demonstrates **backe
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```id="o92d32"
 url-shortener/
