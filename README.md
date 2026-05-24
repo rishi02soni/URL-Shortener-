@@ -15,7 +15,7 @@ Inspired by real-world systems like **Bitly**, this project demonstrates **backe
 *  Redirect short URLs to original links
 *  Base62 Encoding for compact URLs
 *  Persistent storage using JPA (H2 / SQL DB)
-* 🏗️ Clean layered architecture (Controller → Service → Repository)
+*  Clean layered architecture (Controller → Service → Repository)
 * 🚀 Scalable and production-ready design
 
 ---
