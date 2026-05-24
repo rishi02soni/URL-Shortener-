@@ -13,7 +13,7 @@ Inspired by real-world systems like **Bitly**, this project demonstrates **backe
 
 *  Shorten long URLs into unique short codes
 *  Redirect short URLs to original links
-* ⚡ Base62 Encoding for compact URLs
+*  Base62 Encoding for compact URLs
 * 🧠 Persistent storage using JPA (H2 / SQL DB)
 * 🏗️ Clean layered architecture (Controller → Service → Repository)
 * 🚀 Scalable and production-ready design
