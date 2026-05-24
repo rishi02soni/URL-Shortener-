@@ -9,7 +9,7 @@ Inspired by real-world systems like **Bitly**, this project demonstrates **backe
 
 ---  
 
-## ✨ Features
+##  Features
 
 * 🔗 Shorten long URLs into unique short codes
 * 🔁 Redirect short URLs to original links
